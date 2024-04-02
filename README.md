@@ -45,6 +45,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+~~~
 ![Screenshot 2024-04-02 093404](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/d5e0be60-754f-428a-9a98-4cb515d141e9)
 
 ![Screenshot 2024-04-02 093422](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/b7a98297-b296-41de-a863-0c3b31dcf85d)
@@ -55,6 +56,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![Screenshot 2024-04-02 093455](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/edf1d063-78ea-421d-825a-856e9392c166)
 
 ![Screenshot 2024-04-02 093503](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/deb48328-17d7-46d8-a29a-8d96ce5471cd)
+~~~
 
 
 ## Result:
