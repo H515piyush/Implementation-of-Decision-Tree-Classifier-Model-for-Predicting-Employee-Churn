@@ -8,13 +8,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+1.Import the libraries and read the data frame using pandas.
+2.Calculate the null values present in the dataset and apply label encoder.
+3.Determine test and training data set and apply decison tree classification in dataset.
+4.calculate Accuracy,data prediction. 
 ## Program:
-
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by:piyush kumar 
@@ -51,13 +49,14 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![Screenshot 2024-04-02 093422](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/b7a98297-b296-41de-a863-0c3b31dcf85d)
 
 ![Screenshot 2024-04-02 093430](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/6c76eaed-7a14-4b25-80d3-65f302832a04)
+
 ![Screenshot 2024-04-02 093444](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/04a7039f-ed7a-4364-9f56-e0bd021b954a)
 
 ![Screenshot 2024-04-02 093455](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/edf1d063-78ea-421d-825a-856e9392c166)
 
 ![Screenshot 2024-04-02 093503](https://github.com/H515piyush/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147472999/deb48328-17d7-46d8-a29a-8d96ce5471cd)
+
 ~~~
 
-
-## Result:
+**Result**:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
